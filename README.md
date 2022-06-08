@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @vakuum69 - POPUP script is comming =)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-vakuum69/vakuum69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Put this code where you want and let the popup party start. Dont forgett to uppload file to server and change
+https://
+
+<script src="https://www.exmpel.com/js/popup.js" type="text/javascript"></script>
