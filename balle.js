@@ -1,4 +1,4 @@
-var jsm_reruntime = 1; //Vinberg Club24 AB Copyright - Hur ska det spinna per timma!
+var jsm_reruntime = 1; //Vinberg Copyright - Hur ska det spinna per timma!
 var jsm_url = "";
 var browser=navigator.userAgent.indexOf('Chrome') != -1 ?'chrome':false;
 
